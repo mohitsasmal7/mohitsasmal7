@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/mohitsasmal7/mohitsasmal7/blob/main/MOHIT%20SASMAL%20(1).gif)]
+![MasterHead](https://github.com/mohitsasmal7/mohitsasmal7/blob/main/MOHIT%20SASMAL%20(1).gif)
 <h1 align="center">Hi 👋, I'm Mohit Sasmal</h1>
 <h3 align="center">A Flutter Full Stack developer from India</h3>
 
